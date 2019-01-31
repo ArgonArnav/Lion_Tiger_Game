@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LionTigerGame</string>
+    <string name="lion_or_tiger">Lion Or Tiger</string>
+    <string name="todo">TODO</string>
+
+</resources>
